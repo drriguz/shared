@@ -1,0 +1,2 @@
+com/riguz/shared/DemoRepository.java
+ com.riguz.shared.DemoRepository
